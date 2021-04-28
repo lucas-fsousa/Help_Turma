@@ -1,0 +1,12 @@
+C:\Users\Lucas\source\repos\Pessoa_fisica\bin\Debug\net5.0\PessoaFisica.deps.json
+C:\Users\Lucas\source\repos\Pessoa_fisica\bin\Debug\net5.0\PessoaFisica.dll
+C:\Users\Lucas\source\repos\Pessoa_fisica\bin\Debug\net5.0\ref\PessoaFisica.dll
+C:\Users\Lucas\source\repos\Pessoa_fisica\bin\Debug\net5.0\PessoaFisica.pdb
+C:\Users\Lucas\source\repos\Pessoa_fisica\obj\Debug\net5.0\PessoaFisica.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\Pessoa_fisica\obj\Debug\net5.0\PessoaFisica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\Pessoa_fisica\obj\Debug\net5.0\PessoaFisica.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\Pessoa_fisica\obj\Debug\net5.0\PessoaFisica.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\Pessoa_fisica\obj\Debug\net5.0\PessoaFisica.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Pessoa_fisica\obj\Debug\net5.0\PessoaFisica.dll
+C:\Users\Lucas\source\repos\Pessoa_fisica\obj\Debug\net5.0\ref\PessoaFisica.dll
+C:\Users\Lucas\source\repos\Pessoa_fisica\obj\Debug\net5.0\PessoaFisica.pdb

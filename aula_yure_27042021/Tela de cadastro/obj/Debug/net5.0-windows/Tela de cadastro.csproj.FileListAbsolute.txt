@@ -1,0 +1,19 @@
+C:\Users\Lucas\source\repos\Tela de cadastro\bin\Debug\net5.0-windows\Tela de cadastro.exe
+C:\Users\Lucas\source\repos\Tela de cadastro\bin\Debug\net5.0-windows\Tela de cadastro.deps.json
+C:\Users\Lucas\source\repos\Tela de cadastro\bin\Debug\net5.0-windows\Tela de cadastro.runtimeconfig.json
+C:\Users\Lucas\source\repos\Tela de cadastro\bin\Debug\net5.0-windows\Tela de cadastro.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\Tela de cadastro\bin\Debug\net5.0-windows\Tela de cadastro.dll
+C:\Users\Lucas\source\repos\Tela de cadastro\bin\Debug\net5.0-windows\ref\Tela de cadastro.dll
+C:\Users\Lucas\source\repos\Tela de cadastro\bin\Debug\net5.0-windows\Tela de cadastro.pdb
+C:\Users\Lucas\source\repos\Tela de cadastro\obj\Debug\net5.0-windows\Tela de cadastro.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\Tela de cadastro\obj\Debug\net5.0-windows\Tela_de_cadastro.Form1.resources
+C:\Users\Lucas\source\repos\Tela de cadastro\obj\Debug\net5.0-windows\Tela de cadastro.csproj.GenerateResource.cache
+C:\Users\Lucas\source\repos\Tela de cadastro\obj\Debug\net5.0-windows\Tela de cadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\Tela de cadastro\obj\Debug\net5.0-windows\Tela de cadastro.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\Tela de cadastro\obj\Debug\net5.0-windows\Tela de cadastro.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\Tela de cadastro\obj\Debug\net5.0-windows\Tela de cadastro.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Tela de cadastro\obj\Debug\net5.0-windows\Tela de cadastro.dll
+C:\Users\Lucas\source\repos\Tela de cadastro\obj\Debug\net5.0-windows\ref\Tela de cadastro.dll
+C:\Users\Lucas\source\repos\Tela de cadastro\obj\Debug\net5.0-windows\Tela de cadastro.pdb
+C:\Users\Lucas\source\repos\Tela de cadastro\obj\Debug\net5.0-windows\Tela de cadastro.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\Tela de cadastro\obj\Debug\net5.0-windows\Tela_de_cadastro.Lista_dados.resources
